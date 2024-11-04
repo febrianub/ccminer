@@ -45,5 +45,6 @@ nano config.json
 cd ..
 nano ../usr/etc/bash.bashrc
 ```
+
 cd ccminer/&&./start.sh
 ```
