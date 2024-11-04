@@ -3,7 +3,7 @@
         [{
             "name": "SG-VIPOR",
             "url": "stratum+tcp://sg.vipor.net:5045",
-            "timeout": 180,
+            "timeout": 150,
             "disabled": 0
         },
         {
