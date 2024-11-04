@@ -39,3 +39,11 @@ nano config.json
 ```
 ~/ccminer/start.sh
 ```
+
+7. AutoRun
+```
+cd ..
+nano ../usr/etc/bash.bashrc
+```
+cd ccminer/&&./start.sh
+```
