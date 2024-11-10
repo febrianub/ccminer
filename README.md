@@ -3,6 +3,8 @@
 Based on: https://github.com/Oink70/CCminer-ARM-optimized
 
 Install latest arm64-v8a Termux: https://f-droid.org/repo/com.termux_1020.apk
+auto boot
+https://drive.google.com/file/d/1TVQ_66AWZQjYFzs5z2kIYbVI_rVuMhJP/view?usp=drivesdk
 
 Proceed with installation, configuration & compilation:
 
